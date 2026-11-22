@@ -1,0 +1,9 @@
+# Arquivos compilados
+bin/
+*.class
+fontes.txt
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.iml
